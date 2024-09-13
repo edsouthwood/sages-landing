@@ -1,0 +1,19 @@
+project:
+  type: book
+  output-dir: docs
+
+book:
+  title: "Sage's Landing"
+  author: "Ed Southwood"
+  date: "28/08/2024"
+  chapters:
+    - index.qmd
+    - sage.qmd
+    - cast.qmd
+
+format:
+  html:
+    theme: cosmo
+
+
+
