@@ -10,5 +10,11 @@
   },
   "references.qmd": {
     "references.html": "d5f754f0"
+  },
+  "sage.qmd": {
+    "sage.html": "fc8fba87"
+  },
+  "cast.qmd": {
+    "cast.html": "f9a75626"
   }
 }
